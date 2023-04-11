@@ -1,0 +1,24 @@
+*{
+    margin: 4px;
+    
+}
+
+.error{
+    color: red;
+    margin: auto;
+    
+    font-size: 20px;
+}
+
+
+
+#inputs{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#genre{
+    min-width: 198px;
+    min-height: 28px;
+    margin-left: 1px;
+}
